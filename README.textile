@@ -1,0 +1,21 @@
+h1. Disclaimer
+
+This code comprises a project for an online school course.  Naturally, it isn't meant to be usable, by any means.  Please do not expect this application to work for any purpose.
+
+h2. No Warranty
+
+Should you decide to use this code or its compiled form for whatever reason, you are doing so at your own risk.  There is no warranty associated with this application: explicit, implicit, or otherwise.
+
+h1. Academic Honesty
+
+There is also the issue of academic honesty.  Just because this code is publicly visible does not mean that it is yours to copy.  Observe, learn, utilize the knowledge.  Do not copy unless you are explicitly given permission to do so.
+
+h1. License
+
+h2. Course Material Copyright
+
+Some content may represent course material.  This material is accessible to all students expected to be viewing this code repository, but not necessarily to the public.  Thus, it is not necessarily open source, and you might not have the rights to copy it, or even use it if you are not enrolled in the applicable course.
+
+h2. Original Work License
+
+All original work included in this project is owned by Paul Buonopane.  You are granted the right to use, distribute, and modify the work for non-profit academic purposes.  USE OF THIS WORK RELATED TO FOR-PROFIT ACADEMIC PURPOSES IS FORBIDDEN.  Virtual High School (http://govhs.org/) and its students are granted the right to use, distribute, and modify the work for all academic purposes, regardless of profit status.
