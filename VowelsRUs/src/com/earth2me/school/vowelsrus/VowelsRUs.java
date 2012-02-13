@@ -10,7 +10,7 @@ import java.io.*;
  * @version 1.00 2011/12/8
  * @school Medfield High School
  */
-public class VowelsRUs
+public final class VowelsRUs
 {
 	// Look, Ma, no globals!
 
