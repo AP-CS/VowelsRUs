@@ -1,3 +1,4 @@
 bin
 *.class
 src_*.txt
+*.zip
