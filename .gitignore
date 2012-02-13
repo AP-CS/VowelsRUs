@@ -1,1 +1,3 @@
 bin
+*.class
+src_*.txt
